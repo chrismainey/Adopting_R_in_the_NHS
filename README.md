@@ -1,10 +1,11 @@
-# EARL2019 presentation  
+# West Midlands Data Science Netwokr Talk Jan 2020
 
 
  
-## Driving `R` adoption in an NHS information service: barriers and solutions
+## Adopting `R` in an NHS informatics department
 
 ## Chris Mainey
+chris.mainey@uhb.nhs.uk
 
 
-click <a href="https://chrismainey.github.io/EARL_2019_presentation/R_in_an_NHSTrust.html#">here </a> to view slides
+click <a href="https://chrismainey.github.io/Adopting_R_in_the_NHS/R_in_an_NHSTrust.html">here </a> to view slides

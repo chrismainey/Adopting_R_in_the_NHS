@@ -38,9 +38,9 @@ NHS Foundation Trust</b></p>
 ]
 
 .pull-right[
-<img src= "https://chrismainey.github.io/EARL_2019_presentation/assets/HI.png" width=80% height=80%>
+<img src= "https://chrismainey.github.io/EARL_2019_presentation/assets/HI.png" width=75% height=75%>
 <br><br>
-<img src= "https://chrismainey.github.io/EARL_2019_presentation/assets/logo.png" width=80% height=80%>
+<img src= "https://chrismainey.github.io/EARL_2019_presentation/assets/logo.png" width=70% height=70%>
 ]
 
 ---
@@ -352,11 +352,11 @@ Wrapped functions in to an `R` package structure
 - Promote `R` use in NHS
 - Led by Prof. MA Mohammed
 - Funded by grant from the Health Foundation
-- Training provision
+- Training amd community provision
 - Blog posts
 - Share best practice
-- Development of tools
-- National Conference: 4th & 5th November
+- Development of solutions and tools
+- National Conference: 2nd & 3rd November
 ]
 
 .pull-right[
@@ -387,6 +387,8 @@ Wrapped functions in to an `R` package structure
 - Pushing further into ML techniques for prediction
  - Improving current models: Ensemble techniques etc.
  - Unsupervised techniques for cluster analysis.
+
+- Training other organisations
 
 ---
 class: middle
